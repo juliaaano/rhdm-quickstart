@@ -1,6 +1,6 @@
 # Red Hat Decision Manager 
 
-**This project is deprectated. Use project [RHPAM Quickstart](https://github.dev/juliaaano/rhpam-quickstart) instead.**
+**This project is deprectated. Use project [RHPAM Quickstart](https://github.com/juliaaano/rhdm-quickstart) instead.**
 
 ---
 
